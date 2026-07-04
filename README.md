@@ -17,8 +17,7 @@
 
 <!-- ═══════════════════ 4 · CTA BUTTONS ═══════════════════ -->
 <p>
-<a href="https://github.com/mithun2244"><img src="https://img.shields.io/badge/Portfolio-7A263A?style=for-the-badge&logo=githubpages&logoColor=F4E9EB&labelColor=0D0A0C" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/mithunroy"><img src="https://img.shields.io/badge/LinkedIn-7A263A?style=for-the-badge&logo=linkedin&logoColor=2CB3E8&labelColor=0D0A0C" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mithun-roy-591261253/"><img src="https://img.shields.io/badge/LinkedIn-7A263A?style=for-the-badge&logo=linkedin&logoColor=2CB3E8&labelColor=0D0A0C" alt="LinkedIn"/></a>
 <a href="mailto:roym6363@gmail.com"><img src="https://img.shields.io/badge/Email-7A263A?style=for-the-badge&logo=gmail&logoColor=2CB3E8&labelColor=0D0A0C" alt="Email"/></a>
 <a href="https://github.com/mithun2244"><img src="https://img.shields.io/badge/GitHub-7A263A?style=for-the-badge&logo=github&logoColor=F4E9EB&labelColor=0D0A0C" alt="GitHub"/></a>
 </p>
