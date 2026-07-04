@@ -34,7 +34,7 @@
 <!-- ═══════════════════ 6 · ABOUT / BIO ═══════════════════ -->
 ### `mithun@github:~$ cat about.md`
 
-> Applied AI Software Developer and Machine Learning Engineer specialising in **Generative AI, agentic workflows, and RAG architectures**. I turn research-grade deep learning into production systems with Python, FastAPI, and PyTorch — from neuro-symbolic model design to data-driven analytics with SQL and Power BI. Currently exploring advanced agentic workflows and open to graduate roles in AI & Machine Learning.
+> Applied AI / ML engineer. I mostly work on generative AI and agentic systems: RAG pipelines and LLM-backed apps that run in production, not just in a notebook. Stack is usually Python, FastAPI, PyTorch. I came out of a deep learning research background (neuro-symbolic model design), so I like problems that sit between the modelling and the engineering, and I'll drop into SQL and Power BI when the data side needs it. Right now I'm going deep on agentic workflows and looking for graduate AI/ML roles.
 
 ```bash
 ROLE      = "Applied AI Software Developer / ML Engineer"
